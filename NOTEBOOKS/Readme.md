@@ -1,10 +1,7 @@
-# Remove emojis and make the README formal
-readme_content_formal = """
-# Credit Risk Case Study - README
+# Credit Risk Case Study
 
-This project involves data preprocessing, feature selection, and statistical analysis for credit risk modeling. Below is a summary of the steps carried out in the Jupyter Notebook:
+This project involves data preprocessing, feature selection, and statistical analysis for credit risk modeling
 
-## 1. Data Loading
 - Loaded two datasets: `case_study1.xlsx` and `case_study2.xlsx` using `pandas.read_excel()`.
 - Created deep copies of the data for further processing.
 
