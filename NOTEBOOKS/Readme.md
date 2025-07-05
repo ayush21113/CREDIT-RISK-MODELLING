@@ -29,11 +29,4 @@ This project involves data preprocessing, feature selection, and statistical ana
 ## 8. Final Selected Features
 A total of 39 features were selected after applying the VIF and ANOVA tests. These features are intended to be used for subsequent model training and evaluation.
 
-Note: Further steps such as feature encoding and model training using classifiers like Random Forest or Logistic Regression can be added as next steps in the pipeline.
-"""
 
-readme_path_formal = "/mnt/data/README_Credit_Risk_Formatted.md"
-with open(readme_path_formal, "w", encoding="utf-8") as f:
-    f.write(readme_content_formal)
-
-readme_path_formal
